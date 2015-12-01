@@ -1,4 +1,24 @@
 
-Public High School Graduates by state for years 1969-2004
+Classifications:
 
+* State, CBSA, County, District
+* Public school, Private school
+* Year
+* Number of Schools
+* enrollment by grade, enrollment by gender, enrollment by Race/Ethnicity
+* Pupil/Teacher ratio, # of Teachers by grade
+* Instructional Aides, Instructional Coordinators, Guidance Counselors, Student Support Service Staff
+
+
+
+Public Elementary & High School Enrollments by State, Grade and Year - From 1965 to 2004
+https://nces.ed.gov/surveys/annualreports/data/xls/ESE65.xls
+Through
+https://nces.ed.gov/surveys/annualreports/data/xls/ESE03.xls
+
+
+Public High School Graduates by State for Years 1969-2004
 https://nces.ed.gov/surveys/annualreports/data/xls/hsg7005.xls 
+
+Public Elementary & High School Teachers by State for Years 1965-2004
+https://nces.ed.gov/surveys/annualreports/data/xls/teach6904.xls

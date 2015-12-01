@@ -1,15 +1,16 @@
 
-Classifications:
+Features/classification:
 
 * State, CBSA, County, District
 * Public school, Private school
 * Year
-* Number of Schools
+* Number of Schools by state/CBSA/County or District
 * enrollment by grade, enrollment by gender, enrollment by Race/Ethnicity
 * Pupil/Teacher ratio, # of Teachers by grade
-* Instructional Aides, Instructional Coordinators, Guidance Counselors, Student Support Service Staff
+* # of Instructional Aides, Instructional Coordinators, Guidance Counselors, Student Support Service Staff
 
 
+Useful data sources:
 
 Public Elementary & High School Enrollments by State, Grade and Year - From 1965 to 2004
 https://nces.ed.gov/surveys/annualreports/data/xls/ESE65.xls

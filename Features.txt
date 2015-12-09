@@ -1,0 +1,40 @@
+============================
+merged.csv
+============================
+state
+year
+secondary_teachers					Both private and public
+total_rd_expenditures ???
+grade_9_students_enrollment
+grade_10_students_enrollment
+grade_11_students_enrollment
+grade_12_students_enrollment
+grade_9_dropouts
+grade_10_dropouts
+grade_11_dropouts
+grade_12_dropouts
+no_of_sat_test_takers
+critical_reading_mean				Use total SAT score instead
+critical_reading_sd
+mathematics_mean
+mathematics_sd
+writing_mean
+writing_sd
+no_high_school_diploma
+high_school_or_equivalent			Use feature of "high school diploma and above"
+some_college_less_than_4_yr_degree
+bachelors_degree_or_higher
+
+============================
+selected_da_features.csv
+============================
+State
+Year
+population_state_total ???
+number_of_operating_public_schools_district	 ???
+public_school_enrollment xxx
+number_of_public_high_school_graduates ???
+number_of_teachers_in_public_schools xxx
+average_salaries_of_public_school_teachers ???
+per_capita_personal_income ???
+public_school_revenue_per_student_in_fall_enrollment ???
